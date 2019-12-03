@@ -1,0 +1,60 @@
+"OperationMap" : {
+  "Phase1" : {
+    "Title":"Get_Requirements",
+    "Descritpion":"In this phase we will get the requrements of the project",
+    "Requirements" : {
+      "Req1" : {
+        "Title":"",
+        "Description": "",
+        "InitialNotes": ""
+      },
+      "Req2" : {
+        "Title":"",
+        "Description": "",
+        "InitialNotes": ""
+      },
+      "Req3" : {
+        "Title":"",
+        "Description": "",
+        "InitialNotes": ""
+      }
+    }
+  },
+
+  "Phase2" : {
+    "Title":"Planning",
+    "Description": "In this phase we will get the instructions and the resources to execute each requirement.  We break down the requirements into Major, Minor and Sub Tasks. We will also leave notes for insights and general coolness",
+    "MajorTask1" : {
+      "LinktoReq1": "Req1",
+      "MinorTaskA" : {
+        "Description": "",
+        "ReferenceMaterials": [
+          {"description": "", "url" : ""},
+          {"description": "", "url" : ""},
+          {"description": "", "url" : ""}
+        ],
+        "Notes": [
+          "", 
+          "", 
+          "" 
+        ],
+          "SubTask00" : {
+            "Description": "",
+            "ReferenceMaterials": [
+
+            ],
+            "Notes": [
+              
+            ]
+          }
+
+      }
+    }
+    
+  },
+
+  "Phase3" : {
+    "Title":"Execution",
+    "Description": "This phase will be like a journal describing the project as it goes along"
+  }
+}
